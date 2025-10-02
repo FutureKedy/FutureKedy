@@ -12,20 +12,7 @@
 
 - I’m actively working with **Java, JavaScript and C#**  
 - How to reach me: **ozcantuncerbaran@gmail.com**  
-- Currently working on: **My own game projects**  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=111111" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=111111" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/yourdiscord" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&color=111111" alt="Discord"/>
-  </a>
-</p>
+- Currently working on: **Making a game**  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,25 +43,6 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a> 
-</p>
-
-<h3 align="left">Project Showcase:</h3>
-<p align="left">
-  <!-- Example: Add GIFs or links to your games -->
-  <a href="https://link-to-your-game.com" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Game Demo" width="400"/>
-  </a>
-  <a href="https://link-to-another-project.com" target="_blank">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Another Project" width="400"/>
-  </a>
-</p>
-
-<h3 align="left">Mini Games / Interactive Projects:</h3>
-<p align="left">
-  <!-- You can link playable games here -->
-  <a href="https://link-to-your-mini-game.com" target="_blank">
-    <img src="https://img.shields.io/badge/Play_MiniGame-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Mini Game"/>
-  </a>
 </p>
 
 <p>
