@@ -1,7 +1,7 @@
 <h3 align="left">I'm a Solo Game Dev</h3>
 
 <p align="left">
-  I’m actively working with Java, JavaScript and C#<br>
+  I’m actively working with Phyton, JavaScript and C#<br>
   How to reach me: ozcantuncerbaran@gmail.com<br>
   Currently working on: Making a game
 </p>
